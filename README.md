@@ -59,4 +59,4 @@ Functional testing scenarios and defect reporting examples for a demo e-commerce
 
 Email: [sebast.jb8@gmail.com](mailto:sebast.jb8@gmail.com)
 
-LinkedIn: (www.linkedin.com/in/sebastian-jimenez-87b95b293e)
+LinkedIn: (www.linkedin.com/in/sebastian-jimenez-87b95b293)
