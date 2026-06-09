@@ -36,6 +36,15 @@ https://jsonplaceholder.typicode.com/
 
 ### GET /posts
 
+Objective:
+Validate that the endpoint returns a successful response and a valid JSON payload.
+
+Expected Result:
+- Status Code: 200 OK
+- Response Body: JSON array containing posts
+
+Evidence:
+
 ![GET Posts](Screenshots/GET-posts.png)
 
 ### GET /users/1
