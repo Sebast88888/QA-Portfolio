@@ -38,10 +38,6 @@ https://jsonplaceholder.typicode.com/
 
 ![GET Posts](Screenshots/GET-posts.png)
 
-### GET /users/1
-
-![GET User](Screenshots/GET-user.png)
-
 ### POST /posts
 
 ![POST Create](Screenshots/POST-create-post.png)
