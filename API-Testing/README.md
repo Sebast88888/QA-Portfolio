@@ -62,3 +62,14 @@ Evidence:
 ### DELETE /posts/1
 
 ![DELETE Post](Screenshots/DELETE-post.png)
+
+
+## Execution Results
+
+| Test ID | Endpoint | Method | Result |
+|----------|----------|----------|----------|
+| API-001 | /posts | GET | PASS |
+| API-002 | /posts/1 | GET | PASS |
+| API-003 | /posts | POST | PASS |
+| API-004 | /posts/1 | PUT | PASS |
+| API-005 | /posts/1 | DELETE | PASS |
